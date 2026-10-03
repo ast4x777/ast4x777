@@ -1,39 +1,18 @@
-<div align="center">
+[ SYSTEM BOOTING... ]
 
-<img src="TU-BANNER-ANIMADO.gif" width="100%">
+Initializing AST4X environment...
+Loading offensive-security modules...
+Loading web-pentesting tools...
+Loading network stack...
 
-# `ACCESS GRANTED`
+[ ACCESS GRANTED ]
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=500&center=true&width=800&lines=Hello%2C+I'm+Arian+%2F%2F+AST4X;Penetration+Tester;Web+Hacking+Enthusiast;Network+Security;CTF+Player;Telecommunications+Engineering" />
+root@ast4x:~# whoami
+Arian Navid Garayar Alverca
 
-<br>
-
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-ON-black?style=for-the-badge)
-![Pentesting](https://img.shields.io/badge/PENTESTING-ACTIVE-red?style=for-the-badge)
-![CTF](https://img.shields.io/badge/CTF-PLAYER-purple?style=for-the-badge)
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="55%">
-
-## 👾 `WHO_AM_I`
-
-```yaml
-name: Arian Navid Garayar Alverca
-alias: AST4X
-
-focus:
-  - Offensive Security
-  - Web Hacking
-  - Network Pentesting
-  - Active Directory
-  - Cloud Security
-
-currently:
-  - Telecommunications Engineering
-  - CTF Training
-  - Advanced Pentesting
+root@ast4x:~# status
+> Offensive Security : ACTIVE
+> Web Hacking        : ACTIVE
+> CTF Training       : ACTIVE
+> Cloud Security     : LEARNING
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2200&pause=500&center=true&width=900&lines=Initializing+AST4X...;Loading+Offensive+Security+Modules...;Web+Pentesting+Environment+Ready.;ACCESS+GRANTED." />
