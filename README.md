@@ -1,17 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=AST4X&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20Web%20Hacking%20%7C%20Networks&descAlignY=58"/>
+<img src="TU-BANNER-ANIMADO.gif" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=700&center=true&vCenter=true&width=850&lines=Cybersecurity+%26+Ethical+Hacking;Web+Application+Pentesting;Network+Security+%26+Active+Directory;CTF+Player+%7C+Always+Learning;Breaking.+Learning.+Securing." />
+# `ACCESS GRANTED`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=500&center=true&width=800&lines=Hello%2C+I'm+Arian+%2F%2F+AST4X;Penetration+Tester;Web+Hacking+Enthusiast;Network+Security;CTF+Player;Telecommunications+Engineering" />
+
+<br>
+
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-ON-black?style=for-the-badge)
+![Pentesting](https://img.shields.io/badge/PENTESTING-ACTIVE-red?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF-PLAYER-purple?style=for-the-badge)
 
 </div>
 
 ---
 
-```bash
-┌──(ast4x㉿github)-[~]
-└─$ whoami
+<table>
+<tr>
+<td width="55%">
 
-Arian Navid Garayar Alverca
-Telecommunications Engineering Student
-Cybersecurity • Pentesting • Web Hacking • Networks
+## 👾 `WHO_AM_I`
+
+```yaml
+name: Arian Navid Garayar Alverca
+alias: AST4X
+
+focus:
+  - Offensive Security
+  - Web Hacking
+  - Network Pentesting
+  - Active Directory
+  - Cloud Security
+
+currently:
+  - Telecommunications Engineering
+  - CTF Training
+  - Advanced Pentesting
