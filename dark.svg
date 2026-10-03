@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Perfil profesional de Arian Navid Garayar Alverca, Seguridad Ofensiva · Pentesting Web · Redes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"><animate attributeName="stop-color" values="#FFFFFF;#F8FAFC;#FFFFFF" dur="12s" repeatCount="indefinite"/></stop>
+      <stop offset="55%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#EEF6FF"><animate attributeName="stop-color" values="#EEF6FF;#F8FAFC;#EEF6FF" dur="14s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-0.25 0" to="0.25 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="cityGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <radialGradient id="orb">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#CBD5E1" stroke-width="1" opacity=".22"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; }
+      .ascii { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; font-size:10px; fill:#06B6D4; letter-spacing:.2px; }
+      .small { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; font-size:12px; fill:#475569; }
+      .name { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; font-size:27px; font-weight:800; fill:#0F172A; }
+      .headline { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; font-size:14px; font-weight:700; fill:#06B6D4; letter-spacing:1px; }
+      .section { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; font-size:11px; font-weight:700; fill:#475569; letter-spacing:2px; }
+      .label { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; font-size:11px; font-weight:700; fill:#06B6D4; }
+      .value { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; font-size:11px; fill:#0F172A; }
+      .pill { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace; font-size:10px; font-weight:700; fill:#0F172A; }
+    </style>
+  </defs>
+
+  <rect width="1180" height="610" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".75"/>
+  <rect x="16" y="16" width="1148" height="578" rx="18" fill="url(#grid)" opacity=".65"/>
+
+  <!-- ambient depth -->
+  <circle cx="170" cy="130" r="170" fill="url(#orb)"><animate attributeName="cx" values="170;230;170" dur="11s" repeatCount="indefinite"/></circle>
+  <circle cx="1000" cy="160" r="190" fill="url(#orb)" opacity=".7"><animate attributeName="cy" values="160;210;160" dur="13s" repeatCount="indefinite"/></circle>
+
+  <!-- terminal chrome -->
+  <rect x="34" y="32" width="1112" height="48" rx="12" fill="#FFFFFF" fill-opacity=".78" stroke="#CBD5E1"/>
+  <circle cx="58" cy="56" r="6" fill="#EF4444"/>
+  <circle cx="78" cy="56" r="6" fill="#F59E0B"/>
+  <circle cx="98" cy="56" r="6" fill="#10B981"/>
+  <text x="126" y="61" class="small">ast4x@profile:~</text>
+  <text x="1022" y="61" class="small">[ ONLINE ]</text>
+  <circle cx="1108" cy="56" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+
+  <!-- layout panels -->
+  <rect x="34" y="96" width="434" height="434" rx="18" fill="#FFFFFF" fill-opacity=".56" stroke="#CBD5E1"/>
+  <rect x="486" y="96" width="660" height="434" rx="18" fill="#F8FBFF" fill-opacity=".58" stroke="#CBD5E1"/>
+
+  <text x="56" y="124" class="section">VISUAL.MAP</text>
+  <text x="508" y="124" class="section">SYSTEM.INFO</text>
+
+  <!-- left identity -->
+  <text x="56" y="198" class="ascii" opacity="1">                .:+*#%%%%#*+:.<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.00s" fill="freeze"/></text>
+<text x="56" y="210" class="ascii" opacity="1">            .+%%%%%%%%%%%%%%%%%%+.<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.08s" fill="freeze"/></text>
+<text x="56" y="222" class="ascii" opacity="1">          :%%%%%%#*++++++*#%%%%%%:<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.16s" fill="freeze"/></text>
+<text x="56" y="234" class="ascii" opacity="1">         +%%%%%+.          .+%%%%%+<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.24s" fill="freeze"/></text>
+<text x="56" y="246" class="ascii" opacity="1">        *%%%%%:    .::::.    :%%%%%*<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.32s" fill="freeze"/></text>
+<text x="56" y="258" class="ascii" opacity="1">       +%%%%%:   .+######+.   :%%%%%+<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.40s" fill="freeze"/></text>
+<text x="56" y="270" class="ascii" opacity="1">       #%%%%+    *########*    +%%%%#<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.48s" fill="freeze"/></text>
+<text x="56" y="282" class="ascii" opacity="1">       #%%%%+    *##%%%%##*    +%%%%#<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.56s" fill="freeze"/></text>
+<text x="56" y="294" class="ascii" opacity="1">       +%%%%%:   .+######+.   :%%%%%+<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.64s" fill="freeze"/></text>
+<text x="56" y="306" class="ascii" opacity="1">        *%%%%%:    .::::.    :%%%%%*<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.72s" fill="freeze"/></text>
+<text x="56" y="318" class="ascii" opacity="1">         +%%%%%+.          .+%%%%%+<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.80s" fill="freeze"/></text>
+<text x="56" y="330" class="ascii" opacity="1">          :%%%%%%#*++++++*#%%%%%%:<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.88s" fill="freeze"/></text>
+<text x="56" y="342" class="ascii" opacity="1">            .+%%%%%%%%%%%%%%%%%%+.<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="0.96s" fill="freeze"/></text>
+<text x="56" y="354" class="ascii" opacity="1">                .:+*#%%%%#*+:.<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.04s" fill="freeze"/></text>
+<text x="56" y="366" class="ascii" opacity="1">             .:::+*######*+:::.<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.12s" fill="freeze"/></text>
+<text x="56" y="378" class="ascii" opacity="1">          .+##################+.<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.20s" fill="freeze"/></text>
+<text x="56" y="390" class="ascii" opacity="1">        :########################:<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.28s" fill="freeze"/></text>
+<text x="56" y="402" class="ascii" opacity="1">      .############################.<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.36s" fill="freeze"/></text>
+<text x="56" y="414" class="ascii" opacity="1">     +########### AST4X ############+<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.44s" fill="freeze"/></text>
+<text x="56" y="426" class="ascii" opacity="1">     ################################<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.52s" fill="freeze"/></text>
+<text x="56" y="438" class="ascii" opacity="1">     ####  OFFENSIVE SECURITY  ######<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.60s" fill="freeze"/></text>
+<text x="56" y="450" class="ascii" opacity="1">     ################################<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.68s" fill="freeze"/></text>
+<text x="56" y="462" class="ascii" opacity="1">      +############################+<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.76s" fill="freeze"/></text>
+<text x="56" y="474" class="ascii" opacity="1">        :########################:<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.84s" fill="freeze"/></text>
+<text x="56" y="486" class="ascii" opacity="1">          .+##################+.<animate attributeName="opacity" from="0" to="1" dur=".22s" begin="1.92s" fill="freeze"/></text>
+  <rect x="56" y="480" width="388" height="34" rx="10" fill="#F8FBFF" fill-opacity=".72" stroke="#CBD5E1"/>
+  <text x="74" y="501" class="small">~/profile $ build --learn --secure</text>
+  <circle cx="418" cy="497" r="4" fill="#06B6D4"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></circle>
+
+  <!-- right identity -->
+  <g opacity="1">
+    <animate attributeName="opacity" values=".15;1" dur=".55s" begin=".35s" fill="freeze"/>
+    <text x="508" y="160" class="name">Arian Navid Garayar Alverca</text>
+    <text x="508" y="184" class="headline">Seguridad Ofensiva · Pentesting Web · Redes</text>
+  </g>
+  
+        <g opacity="1">
+          <animate attributeName="opacity" values=".15;1" dur=".35s" begin="0.90s" fill="freeze"/>
+          <text x="624" y="222" class="label">&gt; NAME</text>
+          <text x="744" y="222" class="value">Arian Navid Garayar Alverca</text>
+        </g>
+
+        <g opacity="1">
+          <animate attributeName="opacity" values=".15;1" dur=".35s" begin="1.00s" fill="freeze"/>
+          <text x="624" y="256" class="label">&gt; ROLE</text>
+          <text x="744" y="256" class="value">Pentesting / Seguridad Ofensiva</text>
+        </g>
+
+        <g opacity="1">
+          <animate attributeName="opacity" values=".15;1" dur=".35s" begin="1.10s" fill="freeze"/>
+          <text x="624" y="290" class="label">&gt; LOCATION</text>
+          <text x="744" y="290" class="value">Lima, Perú</text>
+        </g>
+
+        <g opacity="1">
+          <animate attributeName="opacity" values=".15;1" dur=".35s" begin="1.20s" fill="freeze"/>
+          <text x="624" y="324" class="label">&gt; EDUCATION</text>
+          <text x="744" y="324" class="value">Ing. de Telecomunicaciones · UNMSM</text>
+        </g>
+
+        <g opacity="1">
+          <animate attributeName="opacity" values=".15;1" dur=".35s" begin="1.30s" fill="freeze"/>
+          <text x="624" y="358" class="label">&gt; FOCUS</text>
+          <text x="744" y="358" class="value">Web · Redes · Active Directory · CTF</text>
+        </g>
+
+        <g opacity="1">
+          <animate attributeName="opacity" values=".15;1" dur=".35s" begin="1.40s" fill="freeze"/>
+          <text x="624" y="392" class="label">&gt; STACK</text>
+          <text x="744" y="392" class="value">Python · Bash · PowerShell · Linux</text>
+        </g>
+
+        <g opacity="1">
+          <animate attributeName="opacity" values=".15;1" dur=".35s" begin="1.50s" fill="freeze"/>
+          <text x="624" y="426" class="label">&gt; TOOLS</text>
+          <text x="744" y="426" class="value">Nmap · Burp Suite · Metasploit · Wireshark</text>
+        </g>
+
+        <g opacity="1">
+          <animate attributeName="opacity" values=".15;1" dur=".35s" begin="1.60s" fill="freeze"/>
+          <text x="624" y="460" class="label">&gt; PROOF</text>
+          <text x="744" y="460" class="value">INE CTF #1 · Fluid Attacks Top 1 U26</text>
+        </g>
+
+  <!-- compact focus pills -->
+  <g transform="translate(510,470)" opacity="1">
+    <animate attributeName="opacity" values=".15;1" dur=".45s" begin="1.85s" fill="freeze"/>
+    <rect x="0" y="0" width="112" height="30" rx="15" fill="#2563EB" fill-opacity=".20" stroke="#2563EB"/>
+    <text x="18" y="20" class="pill">WEB SECURITY</text>
+    <rect x="122" y="0" width="110" height="30" rx="15" fill="#06B6D4" fill-opacity=".18" stroke="#06B6D4"/>
+    <text x="141" y="20" class="pill">NETWORKS</text>
+    <rect x="242" y="0" width="150" height="30" rx="15" fill="#10B981" fill-opacity=".18" stroke="#10B981"/>
+    <text x="258" y="20" class="pill">ACTIVE DIRECTORY</text>
+    <rect x="402" y="0" width="84" height="30" rx="15" fill="#2563EB" fill-opacity=".20" stroke="#2563EB"/>
+    <text x="425" y="20" class="pill">CTF</text>
+  </g>
+
+  <!-- scanline -->
+  <rect x="34" y="100" width="1112" height="2" fill="#2563EB" opacity=".35" filter="url(#glow)">
+    <animate attributeName="y" values="100;528;100" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- futuristic city footer -->
+  <g opacity=".7"><rect x="20" y="520" width="42" height="65" rx="3" fill="url(#cityGrad)" opacity="0.18"/>
+<rect x="28" y="530" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="28" y="548" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="28" y="566" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="40" y="530" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="40" y="548" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="40" y="566" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="52" y="530" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="52" y="548" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="52" y="566" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="68" y="485" width="58" height="100" rx="3" fill="url(#cityGrad)" opacity="0.20"/>
+<rect x="132" y="530" width="36" height="55" rx="3" fill="url(#cityGrad)" opacity="0.21"/>
+<rect x="174" y="460" width="72" height="125" rx="3" fill="url(#cityGrad)" opacity="0.22"/>
+<rect x="252" y="505" width="48" height="80" rx="3" fill="url(#cityGrad)" opacity="0.18"/>
+<rect x="306" y="473" width="64" height="112" rx="3" fill="url(#cityGrad)" opacity="0.20"/>
+<rect x="376" y="513" width="40" height="72" rx="3" fill="url(#cityGrad)" opacity="0.21"/>
+<rect x="422" y="445" width="84" height="140" rx="3" fill="url(#cityGrad)" opacity="0.22"/>
+<rect x="512" y="489" width="52" height="96" rx="3" fill="url(#cityGrad)" opacity="0.18"/>
+<rect x="570" y="467" width="66" height="118" rx="3" fill="url(#cityGrad)" opacity="0.20"/>
+<rect x="642" y="515" width="44" height="70" rx="3" fill="url(#cityGrad)" opacity="0.21"/>
+<rect x="650" y="525" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="650" y="543" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="650" y="561" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="662" y="525" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="662" y="543" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="662" y="561" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="674" y="525" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="674" y="543" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="674" y="561" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="692" y="453" width="70" height="132" rx="3" fill="url(#cityGrad)" opacity="0.22"/>
+<rect x="768" y="525" width="38" height="60" rx="3" fill="url(#cityGrad)" opacity="0.18"/>
+<rect x="776" y="535" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="776" y="553" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="776" y="571" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="788" y="535" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="788" y="553" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="788" y="571" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="812" y="481" width="62" height="104" rx="3" fill="url(#cityGrad)" opacity="0.20"/>
+<rect x="880" y="499" width="46" height="86" rx="3" fill="url(#cityGrad)" opacity="0.21"/>
+<rect x="932" y="449" width="78" height="136" rx="3" fill="url(#cityGrad)" opacity="0.22"/>
+<rect x="1016" y="493" width="52" height="92" rx="3" fill="url(#cityGrad)" opacity="0.18"/>
+<rect x="1074" y="475" width="60" height="110" rx="3" fill="url(#cityGrad)" opacity="0.20"/>
+<rect x="1082" y="485" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1082" y="503" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1082" y="521" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1082" y="539" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1082" y="557" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1094" y="485" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1094" y="503" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1094" y="521" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1094" y="539" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1094" y="557" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1106" y="485" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1106" y="503" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1106" y="521" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1106" y="539" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1106" y="557" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1118" y="485" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1118" y="503" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1118" y="521" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1118" y="539" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1118" y="557" width="3" height="5" rx="1" fill="#06B6D4" opacity=".45"/>
+<rect x="1140" y="517" width="40" height="68" rx="3" fill="url(#cityGrad)" opacity="0.21"/>
+<rect x="1186" y="459" width="70" height="126" rx="3" fill="url(#cityGrad)" opacity="0.22"/></g>
+  <rect x="34" y="552" width="1112" height="1" fill="url(#accent)" opacity=".65"/>
+  <text x="56" y="576" class="small">github.com/ast4x777</text>
+  <text x="736" y="576" class="small">linkedin.com/in/arian-navid-garayar-alverca563aba2a7</text>
+</svg>
