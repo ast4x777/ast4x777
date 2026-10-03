@@ -2,32 +2,55 @@
 
 <img src="./cyber-red-city.png" width="100%" alt="AST4X Cyberpunk Banner"/>
 
+<br>
+
 # AST4X
 
 ### `> OFFENSIVE SECURITY_`
 
 `Web Pentesting` • `Networks` • `Active Directory`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1700&pause=650&color=FF1744&center=true&vCenter=true&width=760&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%7C+Networks;Active+Directory+%7C+CTF;Continuous+Learning"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1700&pause=650&color=FF1744&center=true&vCenter=true&width=760&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%7C+Networks;Active+Directory+%7C+CTF;Continuous+Learning"
+/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=E11D48&style=flat-square"/>
+<img
+src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=E11D48&style=flat-square"
+/>
 
 <br>
 
-<a href="#perfil"><img src="https://img.shields.io/badge/PERFIL-E11D48?style=for-the-badge"/></a>
-<a href="#habilidades"><img src="https://img.shields.io/badge/HABILIDADES-DB2777?style=for-the-badge"/></a>
-<a href="#certificaciones"><img src="https://img.shields.io/badge/CERTIFICACIONES-9333EA?style=for-the-badge"/></a>
-<a href="#logros"><img src="https://img.shields.io/badge/LOGROS-FF1744?style=for-the-badge"/></a>
-<a href="#comunidad"><img src="https://img.shields.io/badge/COMUNIDAD-7C3AED?style=for-the-badge"/></a>
-<a href="#contacto"><img src="https://img.shields.io/badge/CONTACTO-0891B2?style=for-the-badge"/></a>
+<a href="#perfil">
+<img src="https://img.shields.io/badge/PERFIL-E11D48?style=for-the-badge"/>
+</a>
+
+<a href="#habilidades">
+<img src="https://img.shields.io/badge/HABILIDADES-DB2777?style=for-the-badge"/>
+</a>
+
+<a href="#certificaciones">
+<img src="https://img.shields.io/badge/CERTIFICACIONES-9333EA?style=for-the-badge"/>
+</a>
+
+<a href="#logros">
+<img src="https://img.shields.io/badge/LOGROS-FF1744?style=for-the-badge"/>
+</a>
+
+<a href="#comunidad">
+<img src="https://img.shields.io/badge/COMUNIDAD-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="#contacto">
+<img src="https://img.shields.io/badge/CONTACTO-0891B2?style=for-the-badge"/>
+</a>
 
 </div>
 
 <br>
 
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="./neon-divider.svg" width="100%" alt=""/>
 
 <a id="perfil"></a>
 
@@ -62,7 +85,7 @@ Focus      : Web • Networks • Active Directory
 
 <br>
 
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="./neon-divider.svg" width="100%" alt=""/>
 
 <a id="habilidades"></a>
 
@@ -70,7 +93,9 @@ Focus      : Web • Networks • Active Directory
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql,vscode&perline=9"/>
+<img
+src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql,vscode&perline=9"
+/>
 
 <br>
 
@@ -111,7 +136,7 @@ Focus      : Web • Networks • Active Directory
 
 <br>
 
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="./neon-divider.svg" width="100%" alt=""/>
 
 <a id="certificaciones"></a>
 
@@ -144,29 +169,29 @@ Focus      : Web • Networks • Active Directory
 
 <br>
 
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="./neon-divider.svg" width="100%" alt=""/>
 
 <a id="logros"></a>
 
 ## 🏆 Logros
 
 <p align="center">
-  <img src="./assets/ctf-ine.svg" width="49%" alt="INE Security CTF Arena — Primer lugar, 2250 / 2250 puntos. Enumeración, explotación y análisis."/>
-  <img src="./assets/ctf-fluid.svg" width="49%" alt="Fluid Attacks CTF LATAM — Top 1 Under-26. Recon, analysis y offense."/>
+  <img src="./ctf-ine.svg" width="49%" alt="INE Security CTF Arena — Primer lugar, 2250 / 2250 puntos. Enumeración, explotación y análisis."/>
+  <img src="./ctf-fluid.svg" width="49%" alt="Fluid Attacks CTF LATAM — Top 1 Under-26. Recon, analysis y offense."/>
 </p>
 
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="./neon-divider.svg" width="100%" alt=""/>
 
 <a id="comunidad"></a>
 
 ## 🤝 Comunidad
 
 <p align="center">
-  <img src="./assets/community-darkhive.svg" width="49%" alt="DarkHive"/>
-  <img src="./assets/community-ieee.svg" width="49%" alt="IEEE APS UNMSM"/>
+  <img src="./community-darkhive.svg" width="49%" alt="DarkHive"/>
+  <img src="./community-ieee.svg" width="49%" alt="IEEE APS UNMSM"/>
 </p>
 
-<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+<img src="./neon-divider.svg" width="100%" alt=""/>
 
 <a id="contacto"></a>
 
@@ -175,18 +200,28 @@ Focus      : Web • Networks • Active Directory
 <div align="center">
 
 <a href="https://github.com/ast4x777">
-  <img src="https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
+
 <a href="https://www.linkedin.com/in/arian-navid-garayar-alverca563aba2a7">
-  <img src="https://img.shields.io/badge/LinkedIn-Arian_Garayar-DB2777?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/LinkedIn-Arian_Garayar-DB2777?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
 </a>
+
 <a href="mailto:ariangarayaralverca@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contacto-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/Gmail-Contacto-E11D48?style=for-the-badge&logo=gmail&logoColor=white"
+/>
 </a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1700&pause=650&color=FF1744&center=true&width=680&lines=AST4X+%2F%2F+SYSTEM+ONLINE;OFFENSIVE+SECURITY;WEB+%7C+NETWORKS+%7C+ACTIVE+DIRECTORY;NEXT+MISSION+LOADING..."/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1700&pause=650&color=FF1744&center=true&width=680&lines=AST4X+%2F%2F+SYSTEM+ONLINE;OFFENSIVE+SECURITY;WEB+%7C+NETWORKS+%7C+ACTIVE+DIRECTORY;NEXT+MISSION+LOADING..."
+/>
 
 <br>
 
@@ -196,6 +231,9 @@ Focus      : Web • Networks • Active Directory
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:111111,40:0891B2,70:E11D48,100:9333EA"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:111111,40:0891B2,70:E11D48,100:9333EA"
+/>
 
 </div>
