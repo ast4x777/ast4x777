@@ -6,555 +6,186 @@
 
 # AST4X
 
-### `OFFENSIVE SECURITY // WEB PENTESTING // NETWORKS // ACTIVE DIRECTORY`
+### `Offensive Security • Web Pentesting • Networks`
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1700&pause=650&color=DC143C&center=true&vCenter=true&width=850&lines=Inicializando+AST4X...;Ciberseguridad+Ofensiva;Web+Pentesting+%7C+Networks+%7C+Active+Directory;CTF+%7C+Continuous+Learning"
-alt="AST4X typing animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1700&pause=600&color=DC143C&center=true&width=720&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%7C+Active+Directory;CTF+%7C+Continuous+Learning"
 />
 
 <br>
 
-<img
-src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=8B0000&style=for-the-badge"
-/>
-
-<br><br>
-
-<a href="#sobre-mi">
-<img src="https://img.shields.io/badge/SOBRE_MÍ-8B0000?style=for-the-badge"/>
-</a>
-
-<a href="#areas">
-<img src="https://img.shields.io/badge/ÁREAS-B22222?style=for-the-badge"/>
-</a>
-
-<a href="#arsenal">
-<img src="https://img.shields.io/badge/ARSENAL-4B0082?style=for-the-badge"/>
-</a>
-
-<a href="#certificaciones">
-<img src="https://img.shields.io/badge/CERTIFICACIONES-800020?style=for-the-badge"/>
-</a>
-
-<a href="#logros">
-<img src="https://img.shields.io/badge/LOGROS-DC143C?style=for-the-badge"/>
-</a>
-
-<a href="#liderazgo">
-<img src="https://img.shields.io/badge/COMUNIDAD-5D001E?style=for-the-badge"/>
-</a>
-
-<a href="#contacto">
-<img src="https://img.shields.io/badge/CONTACTO-111111?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=8B0000&style=flat-square"/>
 
 </div>
 
 ---
 
-<a id="sobre-mi"></a>
+## 👾 Perfil
 
-## 👾 Sobre mí
-
-<table width="100%">
-<tr>
-
-<td width="100%" valign="top">
-
-```yaml
-Alias: AST4X
-Nombre: Arian Navid Garayar Alverca
-Formación: Ingeniería de Telecomunicaciones
-Enfoque: Seguridad Ofensiva
-```
-
-Soy estudiante de **Ingeniería de Telecomunicaciones** enfocado en **ciberseguridad ofensiva**, con práctica en pentesting de aplicaciones web y redes.
-
-Trabajo principalmente en áreas relacionadas con **enumeración**, **análisis de vulnerabilidades**, **explotación**, **post-explotación**, **Windows**, **Linux** y **Active Directory**.
-
-Mi aprendizaje se basa en laboratorios prácticos, formación técnica, proyectos y competencias **CTF**.
-
-</td>
-
-</tr>
-</table>
-
----
-
-<a id="areas"></a>
-
-## 🎯 Áreas de interés
-
-<table width="100%">
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🕸️ Web Security
-
-- Web Pentesting
-- Reconocimiento
-- Burp Suite
-- Vulnerabilidades Web
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌐 Network Security
-
-- Enumeración
-- Análisis de servicios
-- Wireshark
-- Pivoting
-
-</td>
-
-<td width="34%" valign="top">
-
-### 🪟 Active Directory
-
-- Privilege Escalation
-- Movimiento lateral
-- Post-Exploitation
-- Windows Security
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🐧 Linux
-
-- Bash
-- Enumeración
-- Scripting
-- Post-Exploitation
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💻 Programming
-
-- Python
-- Bash
-- PowerShell
-- Automatización
-
-</td>
-
-<td width="34%" valign="top">
-
-### ☁️ Cloud & CTF
-
-- Cloud Security
-- AWS / Azure / GCP
-- CTF
-- Offensive Mindset
-
-</td>
-
-</tr>
-
-</table>
+Soy **Arian Navid Garayar Alverca**, estudiante de **Ingeniería de Telecomunicaciones** enfocado en **ciberseguridad ofensiva**.
 
 ```text
-┌─ AST4X // FOCUS.MODULES ─────────────────────────────────────────────────────┐
-│                                                                            │
-│  WEB SECURITY        ● ACTIVE      NETWORK SECURITY     ● ACTIVE           │
-│  ACTIVE DIRECTORY    ● ACTIVE      PROGRAMMING          ● ACTIVE           │
-│  LINUX               ● ACTIVE      CLOUD SECURITY      ◐ LEARNING         │
-│  CTF MODE            ● ENABLED                                            │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+🕸️ Web Pentesting      🌐 Network Security
+🪟 Active Directory    🐧 Linux
+☁️ Cloud Security      🚩 CTF
+💻 Automation          ⚔️ Red Team
 ```
 
 ---
 
-<a id="arsenal"></a>
-
-## ⚔️ Arsenal técnico
+## ⚡ Habilidades
 
 <div align="center">
 
-<img
-src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql,vscode&perline=9"
-/>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql,vscode&perline=9"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NMAP-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BURP_SUITE-B22222?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/METASPLOIT-DC143C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WIRESHARK-4B0082?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/NETCAT-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NMAP-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/BURP_SUITE-B22222?style=flat-square"/>
+<img src="https://img.shields.io/badge/METASPLOIT-DC143C?style=flat-square"/>
+<img src="https://img.shields.io/badge/WIRESHARK-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/NETCAT-111111?style=flat-square"/>
 
-</div>
+<br><br>
 
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔎 Reconocimiento
-
-- Nmap
-- Enumeración de servicios
-- Análisis de puertos
-- Network Discovery
-
-### 🕸️ Web
-
-- Burp Suite
-- Web Enumeration
-- OWASP
-- Vulnerability Analysis
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚔️ Post-Exploitation
-
-- Privilege Escalation
-- Movimiento lateral
-- Pivoting
-- Port Forwarding
-
-### 🧰 Automatización
-
-- Python
-- Bash
-- PowerShell
-- Netcat
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧠 Técnicas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ENUMERATION-8B0000?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/VULNERABILITY_ANALYSIS-B22222?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/EXPLOITATION-DC143C?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PRIVILEGE_ESCALATION-4B0082?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/LATERAL_MOVEMENT-800020?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PIVOTING-5D001E?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PORT_FORWARDING-7F1D1D?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/POST_EXPLOITATION-111111?style=flat-square"/>
+`Enumeración` • `Explotación` • `Privilege Escalation` • `Pivoting` • `Movimiento lateral` • `Post-Exploitation`
 
 </div>
 
 ---
-
-<a id="certificaciones"></a>
 
 ## 🛡️ Certificaciones
 
 <table width="100%">
-
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🔴 INE Security
 
-<br>
-
-<img
-src="https://img.shields.io/badge/eJPTv2-JUNIOR_PENETRATION_TESTER-8B0000?style=for-the-badge"
-/>
+<img src="https://img.shields.io/badge/eJPTv2-CERTIFIED-8B0000?style=for-the-badge"/>
 
 <br><br>
 
-`Network Pentesting • Enumeration • Exploitation`
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/eWPTv2-WEB_APPLICATION_PENETRATION_TESTER-B22222?style=for-the-badge"
-/>
-
-<br><br>
-
-`Web Pentesting • Web Exploitation • OWASP`
+<img src="https://img.shields.io/badge/eWPTv2-CERTIFIED-B22222?style=for-the-badge"/>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🟣 CyberWarFare Labs
 
-<br>
-
-<img
-src="https://img.shields.io/badge/MCRTA-MULTI--CLOUD_RED_TEAM-4B0082?style=for-the-badge"
-/>
-
-<br>
-
-`AWS • Azure • GCP • IAM`
+<img src="https://img.shields.io/badge/MCRTA-CERTIFIED-4B0082?style=for-the-badge"/>
 
 <br><br>
 
-<img
-src="https://img.shields.io/badge/WEB--RTA-WEB_RED_TEAM-800020?style=for-the-badge"
-/>
-
-<br>
-
-`Web Pentesting • Recon • Exploitation`
+<img src="https://img.shields.io/badge/WEB--RTA-CERTIFIED-800020?style=for-the-badge"/>
 
 <br><br>
 
-<img
-src="https://img.shields.io/badge/CRTA-RED_TEAM_ANALYST-B22222?style=for-the-badge"
-/>
-
-<br>
-
-`Active Directory • Pivoting • Lateral Movement`
+<img src="https://img.shields.io/badge/CRTA-CERTIFIED-B22222?style=for-the-badge"/>
 
 <br><br>
 
-<img
-src="https://img.shields.io/badge/AD--RTS-ACTIVE_DIRECTORY_SPECIALIST-DC143C?style=for-the-badge"
-/>
-
-<br>
-
-`Active Directory • Windows Security`
+<img src="https://img.shields.io/badge/AD--RTS-CERTIFIED-DC143C?style=for-the-badge"/>
 
 </td>
 
 </tr>
-
 </table>
-
-<br>
-
-### ⏳ En progreso
 
 <div align="center">
 
-<img
-src="https://img.shields.io/badge/eWPTX-IN_PROGRESS-800020?style=for-the-badge"
-/>
+### ⏳ En progreso
 
-<img
-src="https://img.shields.io/badge/eCPPT-IN_PROGRESS-5D001E?style=for-the-badge"
-/>
+<img src="https://img.shields.io/badge/eWPTX-IN_PROGRESS-800020?style=flat-square"/>
+<img src="https://img.shields.io/badge/eCPPT-IN_PROGRESS-5D001E?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧪 Formación práctica
+## 🏆 Logros
 
 <table width="100%">
-
 <tr>
 
-<td width="100%" valign="top">
-
-### 💻 Hack The Box
-
-Práctica constante en laboratorios orientados a **pentesting**, incluyendo:
-
-- Enumeración de sistemas y servicios
-- Explotación de vulnerabilidades
-- Escalada de privilegios
-- Movimiento lateral
-- Post-Exploitation
-- Documentación técnica de hallazgos
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<a id="logros"></a>
-
-## 🏆 Logros destacados
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 ### 🥇 INE Security CTF Arena
+**Primer lugar**
 
-## **PRIMER LUGAR**
-
-`2250 / 2250 puntos`
-
-<br>
-
-Identificación y explotación de una cadena de vulnerabilidades desde acceso externo hasta compromiso del repositorio interno.
+`2250 / 2250`
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 ### 🏅 Fluid Attacks CTF LATAM 2026-2
-
-## **TOP 1 UNDER-26**
-
-<br>
-
-Resolución de desafíos técnicos aplicando enumeración, análisis de vulnerabilidades, explotación y pensamiento crítico.
+**Top 1 Under-26**
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-<a id="liderazgo"></a>
-
-## 🤝 Comunidad & Liderazgo
+## 🤝 Comunidad
 
 <table width="100%">
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🐝 DarkHive
 
-#### **Vicepresidente / Administrador**
+**Vicepresidente / Administrador**
 
-Comunidad universitaria orientada al aprendizaje práctico y colaborativo de **ciberseguridad ofensiva y defensiva**.
-
-<br>
-
-- 🚩 Organización y participación en **CTF**
-- 🛡️ Talleres prácticos de ciberseguridad
-- ⚔️ Seguridad ofensiva y defensiva
-- 🧠 Formación técnica entre estudiantes
-- 🤝 Trabajo colaborativo
-- 🌐 Actividades de comunidad
+`Cybersecurity • CTF • Community`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 📡 IEEE APS UNMSM
 
-#### **Director de Relaciones Públicas**
+**Director de Relaciones Públicas**
 
-Capítulo universitario orientado a **telecomunicaciones**, antenas, propagación y tecnologías emergentes.
-
-<br>
-
-- 🎤 Coordinación con ponentes
-- 📅 Organización de eventos
-- 📡 Telecomunicaciones
-- 🔐 Ciberseguridad
-- 📣 Difusión de actividades
-- 🤝 Relaciones institucionales
+`Telecomunicaciones • Eventos • Tecnología`
 
 </td>
 
 </tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-8B0000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CTF-B22222?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TELECOMMUNICATIONS-4B0082?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/COMMUNITY-800020?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LEADERSHIP-111111?style=for-the-badge"/>
-
-<br><br>
-
-</td>
-
-</tr>
-
 </table>
 
 ---
-
-<a id="contacto"></a>
 
 ## 🌐 Contacto
 
 <div align="center">
 
 <a href="https://github.com/ast4x777">
-<img
-src="https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white"
-/>
-</a>
-
-<a href="mailto:ariangarayaralverca@gmail.com">
-<img
-src="https://img.shields.io/badge/Gmail-Contactar-8B0000?style=for-the-badge&logo=gmail&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arian-navid-garayar-alverca563aba2a7">
-<img
-src="https://img.shields.io/badge/LinkedIn-Arian_Garayar-B22222?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/LinkedIn-Arian_Garayar-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:ariangarayaralverca@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contacto-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-<div align="center">
+<br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1700&pause=600&color=DC143C&center=true&width=850&lines=AST4X+%2F%2F+OFFENSIVE+SECURITY;WEB+%7C+NETWORKS+%7C+ACTIVE+DIRECTORY;CONTINUOUS+LEARNING;NEXT+MISSION+LOADING..."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=1700&pause=600&color=DC143C&center=true&width=650&lines=AST4X+%2F%2F+SYSTEM+ONLINE;OFFENSIVE+SECURITY;NEXT+MISSION+LOADING..."
 />
 
 <br>
-
-### `AST4X // OFFENSIVE SECURITY`
 
 `APRENDER • ANALIZAR • CONSTRUIR • ASEGURAR`
-
-<br>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:111111,45:5D001E,75:8B0000,100:4B0082"
-/>
 
 </div>
