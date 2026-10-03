@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyber-red-city.png" width="100%" alt="Cyberpunk City Banner" />
+<img src="./cyber-red-city.png" width="100%" alt="Cyberpunk City Banner" />
 
 <br><br>
 
@@ -24,15 +24,3 @@
 </p>
 
 </div>
-
----
-
-## 👾 Sobre mí
-
-```yaml
-Alias: AST4X
-Nombre: Arian Navid Garayar Alverca
-Formación: Ingeniería de Telecomunicaciones
-Rol: Seguridad Ofensiva
-Estado: ONLINE
-Ubicación: Perú
