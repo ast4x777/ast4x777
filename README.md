@@ -1,8 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=AST4X%20MISSION%20CONTROL&fontSize=45&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=AST4X&fontSize=75&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&center=true&width=900&lines=OPERATOR%3A+AST4X;STATUS%3A+ONLINE;OFFENSIVE+SECURITY+MODULE%3A+LOADED;CTF+MODE%3A+ENABLED;WELCOME+TO+MISSION+CONTROL" />
+# `WELCOME, OPERATOR.`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=500&center=true&width=850&lines=Choose+your+path...;Explore+Web+Security...;Explore+Network+Security...;Explore+Cloud+Security...;Explore+CTF+Operations...;ACCESS+GRANTED." />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ CHOOSE YOUR PATH
+
+<a href="#-web-security">
+<img src="https://img.shields.io/badge/WEB-HACKING-red?style=for-the-badge&logo=hackaday">
+</a>
+
+<a href="#-network-security">
+<img src="https://img.shields.io/badge/NETWORK-SECURITY-blue?style=for-the-badge">
+</a>
+
+<a href="#️-active-directory">
+<img src="https://img.shields.io/badge/ACTIVE-DIRECTORY-purple?style=for-the-badge&logo=windows">
+</a>
+
+<a href="#️-cloud-security">
+<img src="https://img.shields.io/badge/CLOUD-SECURITY-5865F2?style=for-the-badge&logo=icloud">
+</a>
+
+<a href="#-ctf">
+<img src="https://img.shields.io/badge/CTF-MODE-green?style=for-the-badge">
+</a>
+
+<a href="#-programming">
+<img src="https://img.shields.io/badge/PROGRAMMING-yellow?style=for-the-badge&logo=python">
+</a>
 
 </div>
 
@@ -10,236 +44,149 @@
 
 ```text
 ╔════════════════════════════════════════════════════╗
-║                AST4X MISSION CONTROL              ║
+║              SELECT YOUR OPERATOR                 ║
 ╠════════════════════════════════════════════════════╣
-║ OPERATOR ............. Arian Navid Garayar        ║
-║ STATUS ............... ONLINE                     ║
-║ ROLE ................. CYBERSECURITY              ║
-║ SPECIALIZATION ....... OFFENSIVE SECURITY         ║
-║ WEB PENTESTING ....... ENABLED                    ║
-║ NETWORK SECURITY ..... ENABLED                    ║
-║ CTF MODE ............. ENABLED                    ║
-║ SYSTEM ............... READY                      ║
+║                                                    ║
+║                     AST4X                          ║
+║                                                    ║
+║ CLASS .............. OFFENSIVE SECURITY           ║
+║ EDUCATION .......... TELECOMMUNICATIONS ENG.      ║
+║ SPECIALTY .......... WEB / NETWORK                ║
+║ SECONDARY .......... ACTIVE DIRECTORY             ║
+║ MODE ............... CTF                          ║
+║                                                    ║
+║              ▶ START PROFILE ◀                    ║
 ╚════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🎯 Mission Profile
-
-<table>
-<tr>
-<td width="55%">
+# 👤 Player Profile
 
 ```yaml
-operator: AST4X
+player:
+  name: Arian Navid Garayar Alverca
+  alias: AST4X
 
-real_name:
-  Arian Navid Garayar Alverca
+class:
+  Offensive Security
 
 education:
   Telecommunications Engineering
 
-mission:
-  Learn offensive security
-  Understand vulnerabilities
-  Build technical skills
-  Secure systems
-
-specializations:
-  - Web Pentesting
-  - Network Pentesting
-  - Active Directory
-  - Linux
-  - Windows
+interests:
+  - Cybersecurity
+  - Ethical Hacking
+  - Web Hacking
+  - Networks
   - Cloud Security
+  - Programming
+  - CTF
 ```
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1400&pause=300&center=true&width=380&height=180&lines=SCANNING...;TARGET+FOUND;ENUMERATING...;VULNERABILITY+FOUND;EXPLOITING...;ACCESS+GRANTED;MISSION+COMPLETE" />
-
-</td>
-</tr>
-</table>
 
 ---
 
-# 📡 Security Radar
+# 🕸️ Web Security
 
 ```text
-                        WEB
-                         ▲
-                         │
-                █████████████
-              █████████████████
-            █████████████████████
-NETWORK ◄────────── AST4X ──────────► CLOUD
-            █████████████████████
-              █████████████████
-                █████████████
-                         │
-                         ▼
-                 ACTIVE DIRECTORY
+WEB SECURITY TREE
+
+                    [ WEB ]
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+  Enumeration   Vulnerability   Exploitation
+        │          Analysis          │
+        │             │             │
+     Burp Suite     OWASP       Web Pentest
 ```
-
----
-
-# ⚔️ Combat Skills
-
-```text
-WEB PENTESTING
-██████████████████░░
-
-NETWORK SECURITY
-██████████████████░░
-
-ACTIVE DIRECTORY
-████████████████░░░░
-
-LINUX
-██████████████████░░
-
-WINDOWS
-████████████████░░░░
-
-CLOUD SECURITY
-████████████░░░░░░░░
-
-PROGRAMMING
-████████████████░░░░
-```
-
----
-
-# 🧰 Loadout
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,docker,git,github,mysql" />
-
-</div>
-
-```text
-┌────────────────────────────────────┐
-│ OFFENSIVE SECURITY LOADOUT         │
-├────────────────────────────────────┤
-│ Nmap             [ EQUIPPED ]      │
-│ Burp Suite       [ EQUIPPED ]      │
-│ Metasploit       [ EQUIPPED ]      │
-│ Wireshark        [ EQUIPPED ]      │
-│ Netcat           [ EQUIPPED ]      │
-│ Python           [ EQUIPPED ]      │
-│ Bash             [ EQUIPPED ]      │
-│ PowerShell       [ EQUIPPED ]      │
-└────────────────────────────────────┘
-```
-
----
-
-# 🏆 Achievements Unlocked
-
-### 🥇 `INE SECURITY CTF ARENA`
-
-```text
-MISSION STATUS       ████████████████████ 100%
-
-POSITION             #1
-SCORE                2250 / 2250
-
-[ ACHIEVEMENT UNLOCKED ]
-```
-
-### 🏅 `FLUID ATTACKS CTF LATAM`
-
-```text
-UNDER-26 RANK        #1
-OVERALL RANK         #6
-TOTAL SCORE          2735
-
-[ ACHIEVEMENT UNLOCKED ]
-```
-
----
-
-# 🛡️ Certification Inventory
-
-<div align="center">
-
-![eJPT](https://img.shields.io/badge/eJPTv2-UNLOCKED-success?style=for-the-badge)
-
-![CRTA](https://img.shields.io/badge/CRTA-UNLOCKED-red?style=for-the-badge)
-
-![eWPT](https://img.shields.io/badge/eWPTv2-UNLOCKED-blue?style=for-the-badge)
-
-![eWPTX](https://img.shields.io/badge/eWPTX-LOADING...-orange?style=for-the-badge)
-
-![eCPPT](https://img.shields.io/badge/eCPPT-LOADING...-orange?style=for-the-badge)
-
-</div>
-
----
-
-# 🛰️ GitHub Telemetry
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ast4x777&show_icons=true&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ast4x777&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ast4x777&hide_border=true"/>
-
-</div>
-
----
-
-# 🗃️ Classified Files
 
 <details>
 
-<summary><b>🔐 FILE 001 — WEB SECURITY</b></summary>
+<summary><b>🔓 OPEN WEB SECURITY MODULE</b></summary>
 
-```text
-Burp Suite
-OWASP
-Web Enumeration
-Authentication Testing
-Vulnerability Analysis
-Web Exploitation
+```bash
+$ load web-security
+
+[+] Burp Suite
+[+] Web Enumeration
+[+] Authentication Testing
+[+] Vulnerability Analysis
+[+] Exploitation
+[+] OWASP Methodologies
+
+Module loaded successfully.
 ```
 
 </details>
 
+---
+
+# 🌐 Network Security
+
+```text
+NETWORK OPERATIONS
+
+DISCOVERY
+   ↓
+ENUMERATION
+   ↓
+VULNERABILITY ANALYSIS
+   ↓
+EXPLOITATION
+   ↓
+PRIVILEGE ESCALATION
+   ↓
+PIVOTING
+   ↓
+POST-EXPLOITATION
+```
+
 <details>
 
-<summary><b>🔐 FILE 002 — NETWORK SECURITY</b></summary>
+<summary><b>🌐 OPEN NETWORK MODULE</b></summary>
 
 ```text
 Nmap
 Wireshark
-Network Enumeration
+Netcat
 Pivoting
 Port Forwarding
+Network Enumeration
 Post-Exploitation
 ```
 
 </details>
 
-<details>
+---
 
-<summary><b>🔐 FILE 003 — ACTIVE DIRECTORY</b></summary>
+# 🪟 Active Directory
 
 ```text
-Windows Environments
+WINDOWS DOMAIN
+
+   USER
+     │
+     ▼
+ENUMERATION
+     │
+     ▼
+PRIVILEGE ESCALATION
+     │
+     ▼
+LATERAL MOVEMENT
+     │
+     ▼
+DOMAIN OPERATIONS
+```
+
+<details>
+
+<summary><b>🪟 OPEN ACTIVE DIRECTORY MODULE</b></summary>
+
+```text
+Windows
+PowerShell
 Enumeration
 Privilege Escalation
 Lateral Movement
@@ -250,16 +197,205 @@ Post-Exploitation
 
 ---
 
-# 📞 Communications Channel
+# ☁️ Cloud Security
+
+```text
+         CLOUD
+           ▲
+          / \
+         /   \
+        /     \
+   IDENTITY   NETWORK
+       \       /
+        \     /
+         \   /
+        SECURITY
+```
+
+```text
+STATUS ............ LEARNING
+OBJECTIVE ......... CLOUD SECURITY
+MODE .............. CONTINUOUS TRAINING
+```
+
+---
+
+# 🚩 CTF
+
+<div align="center">
+
+## 🏆 SCOREBOARD
+
+</div>
+
+```text
+┌───────────────────────────────────────────────────┐
+│ INE SECURITY CTF ARENA                            │
+├───────────────────────────────────────────────────┤
+│ POSITION ............................... #1        │
+│ SCORE .................................. 2250      │
+│ PROGRESS ................ ███████████████ 100%     │
+└───────────────────────────────────────────────────┘
+```
+
+```text
+┌───────────────────────────────────────────────────┐
+│ FLUID ATTACKS CTF LATAM 2026-2                    │
+├───────────────────────────────────────────────────┤
+│ UNDER-26 ............................... #1        │
+│ OVERALL ................................ #6        │
+│ SCORE .................................. 2735      │
+└───────────────────────────────────────────────────┘
+```
+
+---
+
+# 💻 Programming
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql" />
+
+</div>
+
+```python
+class AST4X:
+
+    def __init__(self):
+        self.name = "Arian Navid Garayar Alverca"
+        self.focus = "Cybersecurity"
+        self.mode = "Always Learning"
+
+    def mission(self):
+        return [
+            "Learn",
+            "Build",
+            "Break",
+            "Understand",
+            "Secure"
+        ]
+```
+
+---
+
+# 🛡️ Certifications
+
+```text
+SKILL TREE
+
+eJPTv2      ████████████████████  UNLOCKED
+CRTA        ████████████████████  UNLOCKED
+eWPTv2      ████████████████████  UNLOCKED
+
+eWPTX       ███████████░░░░░░░░░  IN PROGRESS
+eCPPT       ███████████░░░░░░░░░  IN PROGRESS
+```
+
+---
+
+# 🔧 Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python)
+
+![Linux](https://img.shields.io/badge/Linux-Operations-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Nmap](https://img.shields.io/badge/Nmap-Enumeration-blue?style=for-the-badge)
+
+![Burp](https://img.shields.io/badge/Burp%20Suite-Web-orange?style=for-the-badge)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-blue?style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-Network-blue?style=for-the-badge)
+
+</div>
+
+---
+
+# 📊 Player Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ast4x777&show_icons=true&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ast4x777&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ast4x777&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔐 Secret Area
+
+<details>
+
+<summary><b>▶ OPEN CLASSIFIED PROFILE</b></summary>
+
+<br>
+
+```text
+ACCESSING CLASSIFIED DATA...
+
+████████████████████████████████ 100%
+
+ACCESS GRANTED.
+
+NAME .............. Arian Navid Garayar Alverca
+ALIAS ............. AST4X
+ROLE .............. Offensive Security
+WEB ............... ENABLED
+NETWORK ........... ENABLED
+AD ................. ENABLED
+CTF ................ ENABLED
+
+STATUS ............ ONLINE
+```
+
+</details>
+
+<details>
+
+<summary><b>💀 RUN SECURITY SCAN</b></summary>
+
+```bash
+$ nmap AST4X
+
+Starting AST4X Security Scanner...
+
+22/tcp     OPEN     Linux
+80/tcp     OPEN     Web Security
+443/tcp    OPEN     Web Pentesting
+445/tcp    OPEN     Active Directory
+1337/tcp   OPEN     CTF
+8080/tcp   OPEN     Programming
+
+6 services detected.
+
+AST4X is ONLINE.
+```
+
+</details>
+
+---
+
+# 🌎 Social Network
 
 <div align="center">
 
 <a href="TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://github.com/ast4x777">
-<img src="https://img.shields.io/badge/GITHUB-AST4X777-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-AST4X777-black?style=for-the-badge&logo=github">
 </a>
 
 </div>
@@ -268,10 +404,10 @@ Post-Exploitation
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&center=true&width=850&lines=MISSION+STATUS%3A+ACTIVE;NEXT+OBJECTIVE%3A+KEEP+LEARNING;THREAT+LEVEL%3A+CURIOSITY;AST4X+SYSTEM%3A+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=500&center=true&width=900&lines=GAME+STATUS%3A+ONLINE;CURRENT+MISSION%3A+CYBERSECURITY;NEXT+LEVEL%3A+LOADING...;KEEP+LEARNING.;KEEP+HACKING.;KEEP+BUILDING." />
 
-### `MISSION CONTROL // CONNECTION TERMINATED`
+### `THANKS FOR PLAYING // AST4X`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer"/>
 
 </div>
