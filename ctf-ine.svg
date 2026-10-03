@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-labelledby="title">
+<title id="title">INE Security CTF Arena</title>
+<defs><linearGradient id="neon"><stop stop-color="#FF1744"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#A855F7" stroke-opacity=".07"/></pattern></defs>
+<rect x="1" y="1" width="478" height="168" rx="12" fill="#0D1117" stroke="url(#neon)" stroke-width="2"/>
+<rect x="3" y="3" width="474" height="164" rx="10" fill="url(#grid)"/>
+<path d="M16 28V16H40M440 154H464V142" fill="none" stroke="#FF5277" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+<text x="240" y="39" fill="#F0F6FC" font-size="21" font-weight="700">INE Security CTF Arena</text>
+<text x="240" y="69" fill="#FF5277" font-size="18" font-weight="600">Primer lugar</text><rect x="133" y="86" width="214" height="29" rx="5" fill="#FF5277" fill-opacity=".12" stroke="#FF5277" stroke-opacity=".55"/><text x="240" y="106" fill="#F0F6FC" font-family="Consolas,monospace" font-size="14">2250 / 2250 PUNTOS</text><text x="240" y="145" fill="#B8C5D6" font-family="Consolas,monospace" font-size="12" letter-spacing="1">ENUMERACIÓN · EXPLOTACIÓN · ANÁLISIS</text></g></svg>

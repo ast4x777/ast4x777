@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="72" viewBox="0 0 480 72" role="img" aria-labelledby="title">
+<title id="title">DarkHive</title>
+<defs><linearGradient id="neon"><stop stop-color="#FF1744"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#A855F7" stroke-opacity=".07"/></pattern></defs>
+<rect x="1" y="1" width="478" height="70" rx="12" fill="#0D1117" stroke="url(#neon)" stroke-width="2"/>
+<rect x="3" y="3" width="474" height="66" rx="10" fill="url(#grid)"/>
+<path d="M16 28V16H40M440 56H464V44" fill="none" stroke="#FF5277" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+<text x="240" y="43" fill="#F0F6FC" font-size="21" font-weight="700">DarkHive</text></g></svg>

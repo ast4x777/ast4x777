@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="14" viewBox="0 0 1000 14">
+<defs><linearGradient id="neon"><stop stop-color="#FF1744"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<path d="M0 7H360L366 2H634L640 7H1000" fill="none" stroke="url(#neon)" stroke-width="2"/>
+<path d="M390 11H610" stroke="#A855F7" opacity=".4"/>
+</svg>
