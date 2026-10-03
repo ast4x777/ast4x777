@@ -84,17 +84,56 @@ Actualmente continúo desarrollando mis habilidades mediante laboratorios práct
 
 - 🥇 **INE Security CTF Arena** — Primer lugar, **2250/2250 puntos**
 - 🏅 **Fluid Attacks CTF LATAM 2026-2** — **Top 1 Under-26**
-- 🌎 **Fluid Attacks CTF LATAM 2026-2** — **Puesto general #6**, 2735 puntos
 
 ---
 
 ## 🎯 Áreas de interés
 
-```text
-Web Pentesting        █████████░
-Network Security      █████████░
-Active Directory      ████████░░
-Linux                 ████████░░
-Programming           ████████░░
-Cloud Security        ██████░░░░
-CTF                   █████████░
+| Área | Nivel |
+|------|-------|
+| 🕸️ **Web Pentesting** | ██████████ 90% |
+| 🌐 **Network Security** | ██████████ 90% |
+| 🪟 **Active Directory** | █████████ 80% |
+| 🐧 **Linux** | █████████ 85% |
+| 💻 **Programming** | █████████ 80% |
+| ☁️ **Cloud Security** | ███████ 60% |
+| 🚩 **CTF** | ██████████ 95% |
+
+---
+
+## 🤝 Comunidad
+
+- **Vicepresidente / Administrador — DarkHive**
+- **Director de Relaciones Públicas — IEEE APS UNMSM**
+
+---
+
+## 📡 GitHub
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ast4x777&show_icons=true&theme=tokyonight&hide_border=true&locale=es">
+
+</div>
+
+---
+
+## 🌐 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arian-navid-garayar-alverca563aba2a7)
+
+[![GitHub](https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ast4x777)
+
+</div>
+
+---
+
+<div align="center">
+
+### `AST4X // SYSTEM ONLINE`
+
+`Aprender • Analizar • Construir • Asegurar`
+
+</div>
