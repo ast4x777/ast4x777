@@ -61,9 +61,9 @@ Soy **Arian Navid Garayar Alverca**, estudiante de **Ingeniería de Telecomunica
 
 <div align="center">
 
-`Web Pentesting` • `Network Security` • `Active Directory` • `Linux`
+`Web Pentesting` • `Network Security` • `Active Directory`
 
-`Cloud Security` • `Automation` • `Red Team` • `CTF`
+`Linux` • `Cloud Security` • `Automation` • `CTF`
 
 </div>
 
@@ -75,6 +75,16 @@ Alias      : AST4X
 Formación  : Ingeniería de Telecomunicaciones
 Focus      : Web • Networks • Active Directory
 ```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/CTF_MODE-ENABLED-FF1744?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-6A00F4?style=flat-square"/>
+
+</div>
+
+<br>
 
 <img
 width="100%"
@@ -175,43 +185,45 @@ src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&cus
 
 ## 🏆 Logros
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-SYSTEM_ACTIVE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CTF-HIGHLIGHTS-8B0000?style=for-the-badge"/>
+
+</div>
+
+<br>
+
 <table width="100%">
 <tr>
 
 <td width="50%" align="center" valign="middle">
 
-<br>
-
 ### 🥇 INE Security CTF Arena
 
-<br>
-
-### **Primer lugar**
+**Primer lugar**
 
 <br>
 
 <img
-src="https://img.shields.io/badge/2250_%2F_2250_PUNTOS-8B0000?style=for-the-badge"
+src="https://img.shields.io/badge/2250_%2F_2250_PUNTOS-B22222?style=for-the-badge"
 />
 
 <br><br>
 
-Identificación y explotación de una cadena de vulnerabilidades  
-hasta el compromiso completo del objetivo.
+<img src="https://img.shields.io/badge/ENUMERACIÓN-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXPLOTACIÓN-6A00F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/ANÁLISIS-FF1744?style=flat-square"/>
 
-<br><br><br>
+<br><br>
 
 </td>
 
 <td width="50%" align="center" valign="middle">
 
-<br>
-
 ### 🏅 Fluid Attacks CTF LATAM
 
-<br>
-
-### **Top 1 Under-26**
+**Top 1 Under-26**
 
 <br>
 
@@ -221,10 +233,11 @@ src="https://img.shields.io/badge/LATAM-UNDER--26-6A00F4?style=for-the-badge"
 
 <br><br>
 
-Resolución de desafíos técnicos mediante enumeración,  
-análisis de vulnerabilidades y explotación.
+<img src="https://img.shields.io/badge/RECON-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/ANALYSIS-B22222?style=flat-square"/>
+<img src="https://img.shields.io/badge/OFFENSE-FF1744?style=flat-square"/>
 
-<br><br><br>
+<br><br>
 
 </td>
 
@@ -247,15 +260,14 @@ src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&cus
 
 <td width="50%" align="center" valign="middle">
 
-<br>
-
 ### 🐝 DarkHive
 
 **Vicepresidente / Administrador**
 
 <br>
 
-Comunidad enfocada en **ciberseguridad, CTF y aprendizaje colaborativo**.
+Comunidad enfocada en  
+**ciberseguridad, CTF y aprendizaje colaborativo**.
 
 <br><br>
 
@@ -269,15 +281,14 @@ Comunidad enfocada en **ciberseguridad, CTF y aprendizaje colaborativo**.
 
 <td width="50%" align="center" valign="middle">
 
-<br>
-
 ### 📡 IEEE APS UNMSM
 
 **Director de Relaciones Públicas**
 
 <br>
 
-Capítulo orientado a **telecomunicaciones, tecnología y actividades académicas**.
+Capítulo enfocado en  
+**telecomunicaciones, tecnología y eventos académicos**.
 
 <br><br>
 
