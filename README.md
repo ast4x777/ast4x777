@@ -2,56 +2,32 @@
 
 <img src="./cyber-red-city.png" width="100%" alt="AST4X Cyberpunk Banner"/>
 
-<br>
-
 # AST4X
 
-### `Offensive Security • Web Pentesting • Networks • Active Directory`
+### `> OFFENSIVE SECURITY_`
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1700&pause=650&color=FF1744&center=true&vCenter=true&width=760&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%7C+Networks;Active+Directory+%7C+CTF;Continuous+Learning"
-/>
+`Web Pentesting` • `Networks` • `Active Directory`
 
-<br>
-
-<img
-src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=8B0000&style=flat-square"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1700&pause=650&color=FF1744&center=true&vCenter=true&width=760&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%7C+Networks;Active+Directory+%7C+CTF;Continuous+Learning"/>
 
 <br>
 
-<a href="#perfil">
-<img src="https://img.shields.io/badge/PERFIL-8B0000?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=E11D48&style=flat-square"/>
 
-<a href="#habilidades">
-<img src="https://img.shields.io/badge/HABILIDADES-B22222?style=for-the-badge"/>
-</a>
+<br>
 
-<a href="#certificaciones">
-<img src="https://img.shields.io/badge/CERTIFICACIONES-6A00F4?style=for-the-badge"/>
-</a>
-
-<a href="#logros">
-<img src="https://img.shields.io/badge/LOGROS-FF1744?style=for-the-badge"/>
-</a>
-
-<a href="#comunidad">
-<img src="https://img.shields.io/badge/COMUNIDAD-800020?style=for-the-badge"/>
-</a>
-
-<a href="#contacto">
-<img src="https://img.shields.io/badge/CONTACTO-111111?style=for-the-badge"/>
-</a>
+<a href="#perfil"><img src="https://img.shields.io/badge/PERFIL-E11D48?style=for-the-badge"/></a>
+<a href="#habilidades"><img src="https://img.shields.io/badge/HABILIDADES-DB2777?style=for-the-badge"/></a>
+<a href="#certificaciones"><img src="https://img.shields.io/badge/CERTIFICACIONES-9333EA?style=for-the-badge"/></a>
+<a href="#logros"><img src="https://img.shields.io/badge/LOGROS-FF1744?style=for-the-badge"/></a>
+<a href="#comunidad"><img src="https://img.shields.io/badge/COMUNIDAD-7C3AED?style=for-the-badge"/></a>
+<a href="#contacto"><img src="https://img.shields.io/badge/CONTACTO-0891B2?style=for-the-badge"/></a>
 
 </div>
 
 <br>
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20,24"
-/>
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
 
 <a id="perfil"></a>
 
@@ -80,16 +56,13 @@ Focus      : Web • Networks • Active Directory
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=flat-square"/>
 <img src="https://img.shields.io/badge/CTF_MODE-ENABLED-FF1744?style=flat-square"/>
-<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-6A00F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-9333EA?style=flat-square"/>
 
 </div>
 
 <br>
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,2,0"
-/>
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
 
 <a id="habilidades"></a>
 
@@ -97,24 +70,22 @@ src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&cus
 
 <div align="center">
 
-<img
-src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql,vscode&perline=9"
-/>
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql,vscode&perline=9"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/NMAP-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BURP_SUITE-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NMAP-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BURP_SUITE-DB2777?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/METASPLOIT-FF1744?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WIRESHARK-6A00F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NETCAT-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WIRESHARK-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETCAT-0891B2?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/ENUMERATION-8B0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/EXPLOITATION-B22222?style=flat-square"/>
-<img src="https://img.shields.io/badge/PRIVILEGE_ESCALATION-6A00F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/PIVOTING-800020?style=flat-square"/>
+<img src="https://img.shields.io/badge/ENUMERATION-E11D48?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXPLOITATION-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRIVILEGE_ESCALATION-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/PIVOTING-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/LATERAL_MOVEMENT-FF1744?style=flat-square"/>
 <img src="https://img.shields.io/badge/POST--EXPLOITATION-111111?style=flat-square"/>
 
@@ -140,10 +111,7 @@ src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,dock
 
 <br>
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20,24"
-/>
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
 
 <a id="certificaciones"></a>
 
@@ -153,71 +121,53 @@ src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&cus
 
 ### 🔴 INE Security
 
-<img src="https://img.shields.io/badge/eJPTv2-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/eWPTv2-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/eJPTv2-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/eWPTv2-DB2777?style=for-the-badge"/>
 
 <br>
 
 ### 🟣 CyberWarFare Labs
 
-<img src="https://img.shields.io/badge/MCRTA-6A00F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEB--RTA-800020?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CRTA-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCRTA-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEB--RTA-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CRTA-DB2777?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AD--RTS-FF1744?style=for-the-badge"/>
 
 <br>
 
 ### ⏳ En progreso
 
-<img src="https://img.shields.io/badge/eWPTX-7B2CBF?style=flat-square"/>
-<img src="https://img.shields.io/badge/eCPPT-5D001E?style=flat-square"/>
+<img src="https://img.shields.io/badge/eWPTX-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/eCPPT-0891B2?style=flat-square"/>
 
 </div>
 
 <br>
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,2,0"
-/>
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
 
 <a id="logros"></a>
 
 ## 🏆 Logros
 
-<table>
-  <tr>
-    <th align="center">🥇 INE Security CTF Arena</th>
-    <th align="center">🏅 Fluid Attacks CTF LATAM</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <strong>Primer lugar</strong><br>
-      <img src="https://img.shields.io/badge/2250_%2F_2250_PUNTOS-B22222?style=flat-square" alt="2250 / 2250 puntos"/><br>
-      <img src="https://img.shields.io/badge/ENUMERACIÓN-8B0000?style=flat-square" alt="Enumeración"/>
-      <img src="https://img.shields.io/badge/EXPLOTACIÓN-6A00F4?style=flat-square" alt="Explotación"/>
-      <img src="https://img.shields.io/badge/ANÁLISIS-FF1744?style=flat-square" alt="Análisis"/>
-    </td>
-    <td align="center" valign="top">
-      <strong>Top 1 Under-26</strong><br>
-      <img src="https://img.shields.io/badge/LATAM-UNDER--26-6A00F4?style=flat-square" alt="LATAM Under-26"/><br>
-      <img src="https://img.shields.io/badge/RECON-8B0000?style=flat-square" alt="Recon"/>
-      <img src="https://img.shields.io/badge/ANALYSIS-B22222?style=flat-square" alt="Analysis"/>
-      <img src="https://img.shields.io/badge/OFFENSE-FF1744?style=flat-square" alt="Offense"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/ctf-ine.svg" width="49%" alt="INE Security CTF Arena — Primer lugar, 2250 / 2250 puntos. Enumeración, explotación y análisis."/>
+  <img src="./assets/ctf-fluid.svg" width="49%" alt="Fluid Attacks CTF LATAM — Top 1 Under-26. Recon, analysis y offense."/>
+</p>
+
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
 
 <a id="comunidad"></a>
 
 ## 🤝 Comunidad
 
-<table>
-  <tr>
-    <th align="center">🐝 DarkHive</th>
-    <th align="center">📡 IEEE APS UNMSM</th>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/community-darkhive.svg" width="49%" alt="DarkHive"/>
+  <img src="./assets/community-ieee.svg" width="49%" alt="IEEE APS UNMSM"/>
+</p>
+
+<img src="./assets/neon-divider.svg" width="100%" alt=""/>
+
 <a id="contacto"></a>
 
 ## 🌐 Contacto
@@ -225,28 +175,18 @@ src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&cus
 <div align="center">
 
 <a href="https://github.com/ast4x777">
-<img
-src="https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/arian-navid-garayar-alverca563aba2a7">
-<img
-src="https://img.shields.io/badge/LinkedIn-Arian_Garayar-B22222?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/LinkedIn-Arian_Garayar-DB2777?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:ariangarayaralverca@gmail.com">
-<img
-src="https://img.shields.io/badge/Gmail-Contacto-8B0000?style=for-the-badge&logo=gmail&logoColor=white"
-/>
+  <img src="https://img.shields.io/badge/Gmail-Contacto-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1700&pause=650&color=FF1744&center=true&width=680&lines=AST4X+%2F%2F+SYSTEM+ONLINE;OFFENSIVE+SECURITY;WEB+%7C+NETWORKS+%7C+ACTIVE+DIRECTORY;NEXT+MISSION+LOADING..."
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1700&pause=650&color=FF1744&center=true&width=680&lines=AST4X+%2F%2F+SYSTEM+ONLINE;OFFENSIVE+SECURITY;WEB+%7C+NETWORKS+%7C+ACTIVE+DIRECTORY;NEXT+MISSION+LOADING..."/>
 
 <br>
 
@@ -256,9 +196,6 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 
 <br>
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:111111,40:5D001E,70:8B0000,100:6A00F4"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:111111,40:0891B2,70:E11D48,100:9333EA"/>
 
 </div>
