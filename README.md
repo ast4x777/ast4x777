@@ -14,7 +14,9 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=8B0000&style=flat-square"/>
+<img
+src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=8B0000&style=flat-square"
+/>
 
 <br><br>
 
@@ -46,7 +48,10 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20,24"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20,24"
+/>
 
 <a id="perfil"></a>
 
@@ -65,13 +70,16 @@ Soy **Arian Navid Garayar Alverca**, estudiante de **Ingeniería de Telecomunica
 ```text
 AST4X@cybercity:~$ whoami
 
-Alias        : AST4X
-Área         : Offensive Security
-Formación    : Ingeniería de Telecomunicaciones
-Focus        : Web • Networks • Active Directory
+Alias      : AST4X
+Área       : Offensive Security
+Formación  : Ingeniería de Telecomunicaciones
+Focus      : Web • Networks • Active Directory
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,2,0"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,2,0"
+/>
 
 <a id="habilidades"></a>
 
@@ -79,7 +87,9 @@ Focus        : Web • Networks • Active Directory
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql,vscode&perline=9"/>
+<img
+src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,docker,mysql,vscode&perline=9"
+/>
 
 <br><br>
 
@@ -98,27 +108,32 @@ Focus        : Web • Networks • Active Directory
 <img src="https://img.shields.io/badge/LATERAL_MOVEMENT-FF1744?style=flat-square"/>
 <img src="https://img.shields.io/badge/POST--EXPLOITATION-111111?style=flat-square"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### `SECURITY.FOCUS`
 
-🕸️ **Web Security** &nbsp;&nbsp; • &nbsp;&nbsp;
-🌐 **Network Security** &nbsp;&nbsp; • &nbsp;&nbsp;
+🕸️ **Web Security**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🌐 **Network Security**
+&nbsp;&nbsp; • &nbsp;&nbsp;
 🪟 **Active Directory**
 
 <br>
 
-🐧 **Linux** &nbsp;&nbsp; • &nbsp;&nbsp;
-💻 **Automation** &nbsp;&nbsp; • &nbsp;&nbsp;
+🐧 **Linux**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+💻 **Automation**
+&nbsp;&nbsp; • &nbsp;&nbsp;
 ☁️ **Cloud Security**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20,24"/>
+<br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20,24"
+/>
 
 <a id="certificaciones"></a>
 
@@ -149,7 +164,12 @@ Focus        : Web • Networks • Active Directory
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,2,0"/>
+<br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,2,0"
+/>
 
 <a id="logros"></a>
 
@@ -158,30 +178,65 @@ Focus        : Web • Networks • Active Directory
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
+
+<br>
 
 ### 🥇 INE Security CTF Arena
 
-**Primer lugar**
+<br>
 
-<img src="https://img.shields.io/badge/2250_%2F_2250-8B0000?style=for-the-badge"/>
+### **Primer lugar**
+
+<br>
+
+<img
+src="https://img.shields.io/badge/2250_%2F_2250_PUNTOS-8B0000?style=for-the-badge"
+/>
+
+<br><br>
+
+Identificación y explotación de una cadena de vulnerabilidades  
+hasta el compromiso completo del objetivo.
+
+<br><br><br>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
+
+<br>
 
 ### 🏅 Fluid Attacks CTF LATAM
 
-**Top 1 Under-26**
+<br>
 
-<img src="https://img.shields.io/badge/CTF-LATAM-6A00F4?style=for-the-badge"/>
+### **Top 1 Under-26**
+
+<br>
+
+<img
+src="https://img.shields.io/badge/LATAM-UNDER--26-6A00F4?style=for-the-badge"
+/>
+
+<br><br>
+
+Resolución de desafíos técnicos mediante enumeración,  
+análisis de vulnerabilidades y explotación.
+
+<br><br><br>
 
 </td>
 
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20,24"/>
+<br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,2,12,20,24"
+/>
 
 <a id="comunidad"></a>
 
@@ -190,42 +245,59 @@ Focus        : Web • Networks • Active Directory
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
+
+<br>
 
 ### 🐝 DarkHive
 
 **Vicepresidente / Administrador**
 
-Comunidad orientada a **ciberseguridad, CTF y aprendizaje colaborativo**.
-
 <br>
+
+Comunidad enfocada en **ciberseguridad, CTF y aprendizaje colaborativo**.
+
+<br><br>
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-8B0000?style=flat-square"/>
 <img src="https://img.shields.io/badge/CTF-B22222?style=flat-square"/>
 <img src="https://img.shields.io/badge/COMMUNITY-800020?style=flat-square"/>
 
+<br><br>
+
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
+
+<br>
 
 ### 📡 IEEE APS UNMSM
 
 **Director de Relaciones Públicas**
 
-Capítulo estudiantil orientado a **telecomunicaciones, eventos y tecnología**.
-
 <br>
+
+Capítulo orientado a **telecomunicaciones, tecnología y actividades académicas**.
+
+<br><br>
 
 <img src="https://img.shields.io/badge/TELECOMUNICACIONES-6A00F4?style=flat-square"/>
 <img src="https://img.shields.io/badge/EVENTOS-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/TECNOLOGÍA-FF1744?style=flat-square"/>
+
+<br><br>
 
 </td>
 
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,2,0"/>
+<br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=24,20,12,2,0"
+/>
 
 <a id="contacto"></a>
 
@@ -234,21 +306,27 @@ Capítulo estudiantil orientado a **telecomunicaciones, eventos y tecnología**.
 <div align="center">
 
 <a href="https://github.com/ast4x777">
-<img src="https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/GitHub-AST4X777-111111?style=for-the-badge&logo=github&logoColor=white"
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/arian-navid-garayar-alverca563aba2a7">
-<img src="https://img.shields.io/badge/LinkedIn-Arian_Garayar-B22222?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/LinkedIn-Arian_Garayar-B22222?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
 </a>
 
 <a href="mailto:ariangarayaralverca@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contacto-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/Gmail-Contacto-8B0000?style=for-the-badge&logo=gmail&logoColor=white"
+/>
 </a>
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1700&pause=650&color=FF1744&center=true&width=650&lines=AST4X+%2F%2F+SYSTEM+ONLINE;OFFENSIVE+SECURITY;NEXT+MISSION+LOADING..."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1700&pause=650&color=FF1744&center=true&width=680&lines=AST4X+%2F%2F+SYSTEM+ONLINE;OFFENSIVE+SECURITY;WEB+%7C+NETWORKS+%7C+ACTIVE+DIRECTORY;NEXT+MISSION+LOADING..."
 />
 
 <br>
@@ -256,5 +334,12 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 ### `AST4X // OFFENSIVE SECURITY`
 
 `APRENDER • ANALIZAR • CONSTRUIR • ASEGURAR`
+
+<br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:111111,40:5D001E,70:8B0000,100:6A00F4"
+/>
 
 </div>
