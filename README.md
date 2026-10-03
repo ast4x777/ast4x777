@@ -1,14 +1,20 @@
 <div align="center">
 
-<img width="100%" src="./assets/cyber-city.png" alt="Cyber City"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=AST4X&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Ciberseguridad%20•%20Hacking%20Web%20•%20Redes%20•%20CTF&descAlignY=60&color=0:0f0c29,50:302b63,100:24243e"/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=700&color=6C63FF&center=true&vCenter=true&width=900&lines=AST4X+%2F%2F+Ciberseguridad;Hacking+Web+%7C+Redes+%7C+CTF;Seguridad+Ofensiva+%7C+Active+Directory;Aprender+%2E+Practicar+%2E+Mejorar" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=Bienvenido+a+mi+perfil;Seguridad+Ofensiva+%7C+Pentesting+Web;Redes+%7C+Active+Directory+%7C+CTF;Aprender+%2E+Practicar+%2E+Mejorar" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ast4x777&label=Visitas&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="95%" src="https://raw.githubusercontent.com/ast4x777/ast4x777/main/assets/cyber-city.png" alt="Cyber City"/>
 
 </div>
 
@@ -41,9 +47,9 @@
 
 ## 👤 Sobre mí
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<p align="center">
+<img src="https://raw.githubusercontent.com/ast4x777/ast4x777/main/assets/hacker.gif" width="320" alt="Hacker GIF"/>
+</p>
 
 ```yaml
 Alias: AST4X
@@ -69,15 +75,6 @@ Actualmente sigo mejorando en:
 - Cloud Security
 - Automatización
 
-</td>
-<td width="42%" align="center">
-
-<img src="./assets/hacker.gif" width="100%" alt="Hacker GIF"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📊 Skills
@@ -94,8 +91,12 @@ Actualmente sigo mejorando en:
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=ast4x777&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=ast4x777&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1200&pause=250&color=00F7FF&center=true&width=850&lines=Reconocimiento...;Enumeraci%C3%B3n...;An%C3%A1lisis+de+servicios...;B%C3%BAsqueda+de+vulnerabilidades...;Explotaci%C3%B3n...;Misi%C3%B3n+completada." />
+
+<br><br>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ast4x777&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ast4x777&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -146,60 +147,17 @@ Actualmente sigo mejorando en:
 
 ## 🎮 Misiones actuales
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🕸️ Misión 01 — Hacking Web
 ```text
-Reconocimiento
-Enumeración web
-Burp Suite
-OWASP
-Análisis de vulnerabilidades
-Explotación controlada
+[01] Pentesting Web
+[02] Seguridad de Redes
+[03] Active Directory
+[04] Cloud Security
+[05] Programación y Automatización
 ```
-
-### 🌐 Misión 02 — Seguridad de Redes
-```text
-Descubrimiento de hosts
-Enumeración de puertos
-Análisis de servicios
-Wireshark
-Pivoting
-Port Forwarding
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🪟 Misión 03 — Active Directory
-```text
-Enumeración
-Privilege Escalation
-Lateral Movement
-Post-Exploitation
-Windows Environment
-```
-
-### ☁️ Misión 04 — Cloud Security
-```text
-Cloud fundamentals
-Identidad y acceso
-Seguridad de red
-Buenas prácticas
-Estado: En progreso
-```
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
-<img width="85%" src="./assets/cyber-city.png" alt="Cyberpunk City"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ast4x777&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -223,6 +181,6 @@ Estado: En progreso
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=1800&pause=700&color=F72585&center=true&width=800&lines=SYSTEM+ONLINE;MISSION+ACTIVE;KEEP+LEARNING;KEEP+BUILDING;GAME+ON" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=1800&pause=700&color=F72585&center=true&width=800&lines=SYSTEM+ONLINE;MISSION+ACTIVE;KEEP+LEARNING;KEEP+BUILDING;GAME+ON" />
 
 </div>
