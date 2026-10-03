@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=AST4X&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Ciberseguridad%20%7C%20Hacking%20Web%20%7C%20Redes%20%7C%20CTF&descAlignY=58&color=0:0f0c29,50:302b63,100:24243e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=AST4X&fontSize=75&fontAlignY=35&animation=fadeIn&desc=Ciberseguridad%20%7C%20Hacking%20Web%20%7C%20Redes%20%7C%20CTF&descAlignY=58&color=0:0f0c29,50:302b63,100:24243e"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=%5B+INICIANDO+AST4X+%5D;%5B+OPERADOR+DETECTADO+%5D;%5B+CARGANDO+SEGURIDAD+OFENSIVA+%5D;%5B+PENTESTING+WEB+%2F+REDES+%5D;%5B+CTF+MODE+%3A+ACTIVADO+%5D;%5B+BIENVENIDO+AL+SISTEMA+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&width=1000&lines=Bienvenido+al+perfil+de+AST4X;Seguridad+Ofensiva+%7C+Pentesting+Web;Redes+%7C+Active+Directory+%7C+CTF;Aprender+%2E+Analizar+%2E+Explotar+%2E+Asegurar" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=blueviolet&style=for-the-badge"/>
 
@@ -14,34 +14,28 @@
 
 <div align="center">
 
-# 🎮 MENÚ PRINCIPAL
+## 🎮 MENÚ
 
 <a href="#-perfil-del-operador">
-  <img src="https://img.shields.io/badge/👤_PERFIL_DEL_OPERADOR-7B2CBF?style=for-the-badge&labelColor=10002B"/>
+  <img src="https://img.shields.io/badge/👤_PERFIL-7B2CBF?style=for-the-badge&labelColor=10002B">
 </a>
-
 <a href="#-estadísticas-del-jugador">
-  <img src="https://img.shields.io/badge/📊_ESTADÍSTICAS-00B4D8?style=for-the-badge&labelColor=03045E"/>
+  <img src="https://img.shields.io/badge/📊_ESTADÍSTICAS-00B4D8?style=for-the-badge&labelColor=03045E">
 </a>
-
-<a href="#-arsenal">
-  <img src="https://img.shields.io/badge/⚔️_ARSENAL-FF5400?style=for-the-badge&labelColor=3C096C"/>
+<a href="#-arsenal-y-tecnologías">
+  <img src="https://img.shields.io/badge/⚔️_ARSENAL-FF5400?style=for-the-badge&labelColor=3C096C">
 </a>
-
 <a href="#-certificaciones">
-  <img src="https://img.shields.io/badge/🛡️_CERTIFICACIONES-38B000?style=for-the-badge&labelColor=004B23"/>
+  <img src="https://img.shields.io/badge/🛡️_CERTIFICACIONES-38B000?style=for-the-badge&labelColor=004B23">
 </a>
-
 <a href="#-logros">
-  <img src="https://img.shields.io/badge/🏆_LOGROS-FFD60A?style=for-the-badge&labelColor=6A040F"/>
+  <img src="https://img.shields.io/badge/🏆_LOGROS-FFD60A?style=for-the-badge&labelColor=6A040F">
 </a>
-
-<a href="#-zona-interactiva">
-  <img src="https://img.shields.io/badge/🕹️_ZONA_INTERACTIVA-FF4D6D?style=for-the-badge&labelColor=590D22"/>
+<a href="#-misiones">
+  <img src="https://img.shields.io/badge/🕹️_MISIONES-FF4D6D?style=for-the-badge&labelColor=590D22">
 </a>
-
 <a href="#-contacto">
-  <img src="https://img.shields.io/badge/🌐_CONTACTO-4CC9F0?style=for-the-badge&labelColor=3A0CA3"/>
+  <img src="https://img.shields.io/badge/🌐_CONTACTO-4CC9F0?style=for-the-badge&labelColor=3A0CA3">
 </a>
 
 </div>
@@ -58,13 +52,14 @@
 Operador: AST4X
 Nombre: Arian Navid Garayar Alverca
 Clase: Seguridad Ofensiva
+Estado: ONLINE
+Ubicación: Perú
+
 Especialidad:
   - Hacking Web
   - Seguridad de Redes
   - Active Directory
   - CTF
-Estado: ONLINE
-Ubicación: Perú
 
 Formación:
   - Ingeniería de Telecomunicaciones
@@ -78,20 +73,24 @@ Intereses:
   - Programación
 ```
 
-### 💬 Descripción
-
-Soy un apasionado por la **ciberseguridad**, el **hacking ético**, el **hacking web**, la **seguridad de redes** y la **programación**.  
-Me gusta aprender, investigar vulnerabilidades, mejorar mis capacidades técnicas y participar en retos **CTF**.
-
 </td>
 
-<td width="45%" align="center">
+<td width="45%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216656979-9cfdb9b0-fb1b-4d1c-9fe2-44b48f5f6ceb.gif" width="100%" alt="Hacker GIF"/>
+### 💬 Descripción
 
-<br><br>
+Soy un apasionado por la **ciberseguridad**, el **hacking ético**, el **hacking web**, la **seguridad de redes** y la **programación**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=400&color=F72585&center=true&width=350&lines=Alias%3A+AST4X;Modo%3A+Hack+%26+Learn;Estado%3A+Activo;Misión%3A+Seguir+creciendo" />
+Me gusta aprender, practicar en laboratorios, mejorar mis capacidades técnicas y participar en retos tipo **CTF**.
+
+### 🎯 Objetivo
+
+Seguir creciendo en:
+- Pentesting web
+- Seguridad de redes
+- Active Directory
+- Cloud Security
+- Automatización y scripting
 
 </td>
 </tr>
@@ -117,13 +116,9 @@ Me gusta aprender, investigar vulnerabilidades, mejorar mis capacidades técnica
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1200&pause=250&color=00F7FF&center=true&width=900&lines=%5B%2B%5D+Reconocimiento...;%5B%2B%5D+Enumeraci%C3%B3n...;%5B%2B%5D+An%C3%A1lisis+de+servicios...;%5B%2B%5D+Buscando+vulnerabilidades...;%5B%2B%5D+Escalada+de+privilegios...;%5B%E2%9C%93%5D+Misi%C3%B3n+completada" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1200&pause=250&color=00F7FF&center=true&width=900&lines=Reconocimiento...;Enumeración...;Análisis+de+servicios...;Búsqueda+de+vulnerabilidades...;Explotación...;Misión+completada." />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ast4x777&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ast4x777&theme=tokyonight&hide_border=true" />
@@ -136,7 +131,7 @@ Me gusta aprender, investigar vulnerabilidades, mejorar mis capacidades técnica
 
 ---
 
-# ⚔️ Arsenal
+# ⚔️ Arsenal y tecnologías
 
 <div align="center">
 
@@ -170,10 +165,6 @@ Me gusta aprender, investigar vulnerabilidades, mejorar mis capacidades técnica
 │ 🪟 Windows         → PowerShell                   │
 └─────────────────────────────────────────────────────┘
 ```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744322-0bc94500-4d95-4f3c-bde4-8c93b8d8d6c5.gif" width="280"/>
-</div>
 
 ---
 
@@ -233,66 +224,42 @@ Me gusta aprender, investigar vulnerabilidades, mejorar mis capacidades técnica
 
 ---
 
-# 🕹️ Zona interactiva
+# 🕹️ Misiones
 
-## 👇 Haz clic en cada misión
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🕸️ MISIÓN 01 — HACKING WEB</b></summary>
-
-<br>
-
-```bash
-┌──(ast4x㉿github)-[~/web]
-└─$ cat mision_web.txt
-
-[+] Enumeración web
-[+] Análisis de autenticación
-[+] Burp Suite
-[+] OWASP
-[+] Vulnerability Analysis
-[+] Explotación controlada
-[+] Reporte técnico
-
-ESTADO: EN EJECUCIÓN
-```
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🌐 MISIÓN 02 — SEGURIDAD DE REDES</b></summary>
-
-<br>
+## 🕸️ MISIÓN 01 — HACKING WEB
 
 ```bash
-┌──(ast4x㉿github)-[~/net]
-└─$ ./network_scan
-
-[*] Descubrimiento de hosts
-[*] Enumeración de puertos
-[*] Identificación de servicios
-[*] Wireshark
-[*] Pivoting
-[*] Port Forwarding
-[*] Post-explotación
-
-[✓] Módulo de red cargado
+Reconocimiento
+Enumeración web
+Burp Suite
+OWASP
+Análisis de vulnerabilidades
+Explotación controlada
+Reporte técnico
 ```
 
-</details>
+## 🌐 MISIÓN 02 — SEGURIDAD DE REDES
 
-<br>
+```bash
+Descubrimiento de hosts
+Enumeración de puertos
+Análisis de servicios
+Wireshark
+Pivoting
+Port Forwarding
+Post-explotación
+```
 
-<details>
-<summary><b>🪟 MISIÓN 03 — ACTIVE DIRECTORY</b></summary>
+</td>
+<td width="50%" valign="top">
 
-<br>
+## 🪟 MISIÓN 03 — ACTIVE DIRECTORY
 
 ```powershell
-PS C:\AST4X> Get-OperatorMission
-
 Target            : Active Directory
 Enumeration       : Enabled
 PrivilegeEsc      : Enabled
@@ -301,72 +268,23 @@ PostExploitation  : Enabled
 Status            : Ready
 ```
 
-</details>
-
-<br>
-
-<details>
-<summary><b>☁️ MISIÓN 04 — CLOUD SECURITY</b></summary>
-
-<br>
+## ☁️ MISIÓN 04 — CLOUD SECURITY
 
 ```text
-CLOUD SECURITY MODULE
-
-████████████░░░░░░░░ 60%
-
-[+] Fundamentos cloud
-[+] Identidad y acceso
-[+] Seguridad de red
-[+] Buenas prácticas
-
-ESTADO: ENTRENAMIENTO ACTIVO
+Cloud fundamentals
+Identidad y acceso
+Seguridad de red
+Buenas prácticas
+Estado: Entrenamiento activo
 ```
 
-</details>
-
-<br>
-
-<details>
-<summary><b>🎮 NIVEL SECRETO — ABRIR TERMINAL AST4X</b></summary>
-
-<br>
-
-```bash
-┌──(root㉿ast4x)-[~]
-└─# whoami
-
-AST4X
-
-┌──(root㉿ast4x)-[~]
-└─# nmap AST4X
-
-22/tcp     open     linux
-80/tcp     open     hacking-web
-443/tcp    open     pentesting-web
-445/tcp    open     active-directory
-1337/tcp   open     ctf
-8080/tcp   open     programming
-
-┌──(root㉿ast4x)-[~]
-└─# echo $MISSION
-
-APRENDER • ANALIZAR • EXPLOTAR • ENTENDER • ASEGURAR
-```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213760697-fd12bdb1-3c35-4a20-9c27-00d3e54b7c76.gif" width="350"/>
-</div>
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
 # 💻 Programación
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/218266847-dfd7ac6b-14da-44f5-8b90-7f9a13582ab9.gif" width="420"/>
-</div>
 
 ```python
 class AST4X:
@@ -414,7 +332,7 @@ print(operador.objetivo())
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1800&pause=500&color=F72585&center=true&width=1000&lines=%3E+SISTEMA+ONLINE;%3E+MISI%C3%93N+ACTIVA;%3E+SIGUE+APRENDIENDO;%3E+SIGUE+MEJORANDO;%3E+GAME+ON" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=1800&pause=500&color=F72585&center=true&width=1000&lines=SYSTEM+ONLINE;MISSION+ACTIVE;KEEP+LEARNING;KEEP+BUILDING;GAME+ON" />
 
 <br><br>
 
