@@ -14,11 +14,6 @@
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1700&pause=650&color=FF1744&center=true&vCenter=true&width=760&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%7C+Networks;Active+Directory+%7C+CTF;Continuous+Learning"
 />
 
-<br>
-
-<img
-src="https://komarev.com/ghpvc/?username=ast4x777&label=VISITAS&color=E11D48&style=flat-square"
-/>
 
 <br>
 
